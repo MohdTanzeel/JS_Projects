@@ -1,0 +1,1 @@
+## This repo contain multiple projects of html,css and js for learning purpose.
