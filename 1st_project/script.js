@@ -47,8 +47,14 @@ function  substring(str, start, end) {
 function split(str, separator) {
     console.log(`The split of "${str}" using "${separator}" is`, str.split(separator));
 }
-split('Hello World check the array', " ");
+// split('Hello World check the array', " ");
 
+// write the use of repeat
+
+function repeat(str, count) {
+    console.log(`The repeat of "${str}" ${count} times is, ${str.repeat(count)}!`);
+}
+repeat(' Hello World', 2 );
 
 // write the use of trim
 
